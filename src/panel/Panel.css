@@ -1,0 +1,101 @@
+.bq-panel {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    width: 300px;
+    background: #FAFAFAFA;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#bq-group {
+    padding: 10px;
+}
+
+.agg-panel {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    width: 400px;
+    background: #FAFAFAFA;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#agg-panel-meshid {
+    padding-top: 20px;
+}
+
+#agg-panel-result {
+    padding-top: 10px;
+}
+
+#places-id-list {
+    max-height: 650px;
+    overflow-y: scroll;
+}
+
+.place-panel {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    width: 400px;
+    height: 100%;
+    background: #FAFAFAFA;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.place-panel .place-list {
+    height: 100%;
+    overflow-y: auto;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.info-panel {
+    position: absolute;
+    bottom: 5px;
+    margin-left: 300px;
+    width: 300px;
+    background: #FAFAFAFA;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.item {
+    display: flex;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    align-items: center;
+}
+
+.item p {
+    flex: 1;
+    font-size: 20px;
+}
+
+.item input {
+    flex: 1;
+    height: 20px;
+}
+
+button {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.place-details-collapsed {
+    visibility: visible;
+    height: auto;;
+}
+
+.place-details-collapsed {
+    visibility: hidden;
+    height: 5px;
+}

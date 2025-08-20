@@ -1,0 +1,11 @@
+.pane {
+    flex: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.subpane {
+    flex: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
