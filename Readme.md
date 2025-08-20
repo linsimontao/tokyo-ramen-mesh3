@@ -1,5 +1,7 @@
 # Places insight, aggregate, detail
-![](https://github.com/linsimontao/tokyo-ramen-mesh3/blob/main/public/page.png)
+![](https://github.com/linsimontao/tokyo-ramen-mesh3/blob/main/public/page1.png)
+![](https://github.com/linsimontao/tokyo-ramen-mesh3/blob/main/public/page2.png)
+![](https://github.com/linsimontao/tokyo-ramen-mesh3/blob/main/public/page3.png)
 
 1. /public/ramen.csv is the result from places insight
 2. Create GMP API key with places(aggregate as well) and maps enabled
